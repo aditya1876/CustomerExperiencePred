@@ -13,7 +13,8 @@ The Kanban board for the project can be found [here](https://github.com/users/ad
 
 ## Random notes
 ### Flask
-* before running the flask app, run `export FLASK_APP=./flask_app/app.py` (can we add this in .env file so we don't have to run this for every new terminal?)
 * run the app by - `flask run`
+
+
 
 
