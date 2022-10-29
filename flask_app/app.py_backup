@@ -1,0 +1,16 @@
+from flask import Flask, request, jsonify, render_template
+
+
+app=Flask(__name__)
+
+#UI ROUTES
+@app.route('/',methods=['GET','POST'])
+def homepage():
+    return render_template('index.html')
+
+
+#API ROUTES
+
+
+if __name__=='__main__':
+    app.run(debug=True)
