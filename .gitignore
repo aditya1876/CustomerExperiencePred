@@ -131,3 +131,12 @@ dmypy.json
 ###################################
 ##Project Specific additions
 Data_Source/*
+.env/
+.env/*
+*.log
+.venv
+.venv/*
+.vscode/*
+.ipynb/*
+.cenv/*
+pycache/*
