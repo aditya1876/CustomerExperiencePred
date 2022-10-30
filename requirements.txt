@@ -6,4 +6,7 @@ MarkupSafe
 python-dotenv
 Werkzeug
 gunicorn
+PyYAML
+evidently
+dill
 -e .
